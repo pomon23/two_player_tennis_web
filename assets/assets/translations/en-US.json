@@ -34,5 +34,13 @@
   "control_scheme_keyboard": "KEYBOARD",
   "control_scheme_gamepad": "GAMEPAD",
   "move_up": "MOVE UP",
-  "move_down": "MOVE DOWN"
+  "move_down": "MOVE DOWN",
+  "go": "GO!",
+  "n_combo": "{}x COMBO",
+  "combo_points_earned": {
+    "zero": "",
+    "one": "+{} bonus point!",
+    "many": "+{} bonus points!",
+    "other": "+{} bonus points!"
+  }
 }

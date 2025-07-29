@@ -34,5 +34,13 @@
   "control_scheme_keyboard": "TASTATURA",
   "control_scheme_gamepad": "DŽOJSTIK",
   "move_up": "POMERI GORE",
-  "move_down": "POMERI DOLE"
+  "move_down": "POMERI DOLE",
+  "go": "SAD!",
+  "n_combo": "{}x KOMBO",
+  "combo_points_earned": {
+    "zero": "",
+    "one": "+{} bonus poen!",
+    "many": "+{} bonus poena!",
+    "other": "+{} bonus poena!"
+  }
 }
