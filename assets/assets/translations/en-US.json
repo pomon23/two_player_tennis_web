@@ -40,7 +40,7 @@
   "menu_pause_main_menu": "MAIN MENU",
   "menu_end_winning_player": "PLAYER {} WINS!",
   "menu_revert_tooltip": "Hold to revert to default settings.",
-  "menu_effects_disabled_tooltip": "Enable visual effects in the options to change glow color.",
+  "menu_effects_disabled_tooltip": "Enable visual effects to change glow color.",
   "menu_credits": "CREDITS",
   "menu_credits_student": "STUDENT",
   "menu_credits_student_value": "Petar Petrović",

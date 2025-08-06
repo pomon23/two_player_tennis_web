@@ -40,7 +40,7 @@
   "menu_pause_main_menu": "POČETNI MENI",
   "menu_end_winning_player": "IGRAČ {} JE POBEDIO!",
   "menu_revert_tooltip": "Drži dugme za povratak podrazumevanih podešavanja.",
-  "menu_effects_disabled_tooltip": "Uključi vizuelne efekte u podešavanjima da bi promenio boju sjaja.",
+  "menu_effects_disabled_tooltip": "Uključi vizuelne efekte da bi promenio boju sjaja.",
   "menu_credits": "INFORMACIJE",
   "menu_credits_student": "STUDENT",
   "menu_credits_student_value": "Petar Petrović",
